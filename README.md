@@ -6,7 +6,7 @@ I'm a recent graduate of the HyperionDev Data Science Bootcamp, passionate about
 - 🔭 I’m currently working on improving my Python coding skills and diving deeper into data science concepts.
 - 🌱 I’m currently learning advanced Python techniques and exploring various data science libraries.
 - 💬 Ask me about my experience with the HyperionDev bootcamp or anything related to Python programming!
-- 📫 Connect with me on [LinkedIn] (https://www.linkedin.com/in/sahir-butt-384b25183/) to explore opportunities or just say hello!
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/sahir-butt-384b25183/) to explore opportunities or just say hello!
 
 ## Tech Stack
 - Programming Languages: Python
