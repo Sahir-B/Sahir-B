@@ -15,6 +15,5 @@ I'm a recent graduate of the HyperionDev Data Science Bootcamp, passionate about
 
 ## Get in Touch
 - LinkedIn: [https://www.linkedin.com/in/sahir-butt](https://www.linkedin.com/in/sahir-butt-384b25183/)
-- Email: your.email@example.com
 
 Feel free to explore my repositories and reach out for collaborations or discussions. Let's connect and learn together! 😄
